@@ -1,4 +1,4 @@
-# 💻 MacBook Pro - 3D Landing Page
+# 💻 macbook pro. - 3D Landing Page
 
 A sleek **3D interactive landing page** featuring a **MacBook Pro** model that opens and closes smoothly as you scroll.  
 Built using **React**, **Three.js**, and **TailwindCSS**, this project demonstrates the fusion of modern frontend development with immersive 3D experiences.
@@ -59,6 +59,6 @@ By syncing the scroll position with useFrame and useScroll from @react-three/dre
 
 ### 🖼️ Preview
 
-(view)
+https://github.com/user-attachments/assets/0e007180-94f4-4a5b-9c2e-93689184611f
 
 ### Made with ❤️ using React, Three.js, and TailwindCSS
